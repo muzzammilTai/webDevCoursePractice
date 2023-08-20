@@ -1,0 +1,16 @@
+.box{
+    position: relative;
+}
+.box img{
+    position: absolute;
+    height: 500px;
+    width: 350px;
+    margin-top: 50px;
+    margin-left: 580px;
+    transition: opacity is ease-in-out;
+}
+
+.box .img1:hover img{
+    opacity: 0;
+    cursor: pointer;
+}

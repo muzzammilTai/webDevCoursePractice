@@ -1,0 +1,39 @@
+.navbar1 {
+    position: fixed;
+    background-color: white;
+    box-shadow: 1px 1px 8px rgba(119, 119, 119, 0.785);
+    width: 1555px;
+    height: 57px;
+    margin: -10px -8px;
+}
+
+.navbar1 a {
+    position: relative;
+    color: black;
+    text-decoration: none;  
+    letter-spacing: 3px;
+    font-size: 18px;
+    margin: 15px 25px;
+    padding: 5px 10px;
+}
+
+.navbar1 a:hover {
+    background-color: rgba(128, 128, 128, 0.735);
+}
+
+.navbar2 a {
+    float: right;
+    display: inline;
+    margin-left: -20PX;
+    margin-right: 50px;
+}
+
+.img1 img {
+    height: auto;
+    width: 101%;
+    margin: -7px -8px;
+}
+
+@media screen and (max-width) {
+    
+}

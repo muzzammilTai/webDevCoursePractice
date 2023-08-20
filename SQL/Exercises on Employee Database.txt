@@ -1,0 +1,199 @@
+					** SQL Basic Queries on Employee Database
+
+1. Write a query in SQL to display all the information of the employees.
+-
+2. Write a query in SQL to find the salaries of all employees.
+
+3. Write a query in SQL to display the unique designations for the employees.
+
+4. Write a query in SQL to list the emp_id,salary, and commission of all the employees.
+
+5. Write a query in SQL to display the unique department with jobs.
+
+6. Write a query in SQL to list the employees who does not belong to department 2001.
+
+7. Write a query in SQL to list the employees who joined before 1991.
+
+8. Write a query in SQL to display the average salaries of all the employees who works as ANALYST.
+
+9. Write a query in SQL to display the details of the employee BLAZE.
+
+10. Write a query in SQL to display all the details of the employees whose commission is more than their salary.
+
+11. Write a query in SQL to list the name of the employees, those having six characters to their name.
+
+12. Write a query in SQL to list all the employees whose designation is CLERK.
+
+13. Write a query in SQL to list the employees whose salaries are less than 3500. 
+
+14. Write a query in SQL to list the name, job_name, and salary of any employee whose designation is ANALYST.
+
+15. Write a query in SQL to list the name, id, hire_date, and salary of all the employees joined before 1 apr 91.
+
+16. Write a query in SQL to list the employee name, and job_name who are not working under a manager.  
+
+17. Write a query in SQL to list all the employees joined on 1st may 91.
+
+18. Write a query in SQL to list the id, name, salry, and experiences of all the employees working for the manger 68319.
+
+19. Write a query in SQL to list the employees of department id 3001 or 1001 joined in the year 1991
+
+20. Write a query in SQL to list all the employees of designation CLERK in department no 2001.
+
+21. Write a query in SQL to list the employees who are either CLERK or MANAGER.
+
+22. Write a query in SQL to list the employees who joined in the year 91. 
+
+23. Write a query in SQL to list the employees who joined in the month of June in 1991.
+
+24. Write a query in SQL to list the employees whose annual salary is within the range 24000 and 50000. 
+
+25. Write a query in SQL to list the employees who have joined on the following dates 1st May,20th Feb, and 03rd Dec in the year 1991. 
+
+26. Write a query in SQL to list the employees working under the managers 63679,68319,66564,69000.
+
+27. Write a query in SQL to list the employees who joined after the month JUNE in the year 1991.
+
+28. Write a query in SQL to list the managers of department 1001 or 2001.
+
+29. Write a query in SQL to list all the employees who joined before or after 1991. 
+
+30. Write a query in SQL to list the employees along with department name. 
+
+31. Write a query in SQL to list the name, job name, annual salary, department id, department name and grade of the employees who earn 60000 in a year or not working as an ANALYST.  
+
+32. Write a query in SQL to list the name, job name, manager id, salary, manager name, manager's salary for those employees whose salary is greater than the salary of their managers. 
+
+33. Write a query in SQL to list the employees name, department, salary and commission. For those whose salary is between 2000 and 5000 while location is PERTH.  
+
+34. Write a query in SQL to list the grade, employee name for the department id 1001 or 3001 but salary grade is not 4 while they joined the company before 1992-12-31.
+
+35. Write a query in SQL to list the employees whose manager name is JONAS.
+
+36. Write a query in SQL to list the name and salary of FRANK if his salary is equal to max_sal of his grade.  
+
+37. Write a query in SQL to list the employees who are working either MANAGER or ANALYST with a salary range between 2000 to 5000 without any commission. 
+
+38. Write a query in SQL to list the employees who are senior to their own manager.
+
+39. Write a query in SQL to list the employee with their grade for the grade 4. 
+
+40. Write a query in SQL to list the employees in the ascending order of their salaries.
+
+41. Write a query in SQL to list the details of the employees in ascending order to the department_id and descending order to the jobs. 
+
+42. Write a query in SQL to display all the unique job in descending order. 
+
+43. Write a query in SQL to list the id, name, monthly salary, daily salary of all the employees in the ascending order of their annual salary.
+
+44. Write a query in SQL to list the employees in descending order who are either 'CLERK' or 'ANALYST'.
+
+45. Write a query in SQL to display the location of CLARE. 
+
+46. Write a query in SQL to list the employees in ascending order of seniority who joined on 1-MAY-91,or 3-DEC-91, or 19-JAN-90.  
+
+47. Write a query in SQL to list the employees who are drawing the salary less than 1000 and sort the output in ascending order on salary.
+
+48. Write a query in SQL to list the employees in ascending order on job name and descending order on employee id. 
+
+49. Write a query in SQL to list the unique jobs of department 2001 and 3001 in descending order.
+
+50. Write a query in SQL to list all the employees except PRESIDENT and MANAGER in ascending order of salaries.  
+
+51. Write a query in SQL to list the employees in ascending order of the salary whose annual salary is below 25000.
+
+52. Write a query in SQL to list the employee id, name, annual salary, daily salary of all the employees in the ascending order of annual salary who works as a SALESMAN. 
+
+53. Write a query in SQL to list the total information of employees table along with department, and location of all the employees working under FINANCE and AUDIT in the ascending department no.
+
+54. Write a query in SQL to display the total information of the employees along with grades in ascending order.
+
+55. Write a query in SQL to list the name, job name, department, salary, and grade of the employees according to the department in ascending order. 
+
+56. Write a query in SQL to list the name, job name, salary, grade and department name of employees except CLERK and sort result set on the basis of highest salary.
+
+57. Write a query in SQL to list the details of the employees along with the details of their departments. 
+
+58. Write a query in SQL to list the employees who are senior to their own MANAGERS.
+
+59. Write a query in SQL to list the employee id, name, salary, and department id of the employees in ascending order of salary who works in the department 1001.
+
+60. Write a query in SQL to find the highest salary from all the employees.
+
+61. Write a query in SQL to list the employee id, name, department id, location of all the employees.
+
+62. Write a query in SQL to list the employee id, name, location, department of all the departments 1001 and 2001.
+
+63. Write a query in SQL to list the manager no and the number of employees working for those managers in ascending order on manager id.
+
+64. Write a query in SQL to display the number of employee for each job in each department.
+
+65. Write a query in SQL to list the department where at least two employees are working.
+
+66. Write a query in SQL to display the Grade, Number of employees, and maximum salary of each grade.
+
+67. Write a query in SQL to display the department name, grade, no. of employees where at least two employees are working as a SALESMAN.
+
+68. Write a query in SQL to list the no. of employees in each department where the no. is less than 4.
+
+69. Write a query in SQL to list the name of departments where atleast 2 employees are working in that department.
+
+70. Write a query in SQL to check whether all the employees numbers are indeed unique.
+
+71. Write a query in SQL to list the no. of employees and average salary within each department for each job name.
+
+72. Write a query in SQL to list the employees whose names containing the character set 'AR' together.
+
+73. Write a query in SQL to list the employees whose names containing the letter 'A'.
+
+74. Write a query in SQL to list the employees whose name is ending with 'S' and six characters long.
+		
+					**SQL Subqueries on Employee Database
+
+75. Write a query in SQL to display all the details of managers.
+
+76. Write a query in SQL to display the employee ID, name, job name, hire date, and experience of all the managers.
+
+77. Write a query in SQL to list all the employees of grade 2 and 3.
+78. Write a query in SQL to display all the employees of grade 4 and 5 who are working as ANALYST or MANAGER.
+79. Write a query in SQL to list the details of the employees whose salary is more than the salary of JONAS.
+80. Write a query in SQL to list the employees who works in the same designation as FRANK.
+81. List the employees who are senior to ADELYN.
+82. Write a query in SQL to list the employees of department ID 2001 who works in the designation same as department ID 1001.
+83. Write a query in SQL to list the employees whose salary is same as the salary of FRANK or SANDRINE. List the result in descending order of salary. 
+84. Write a query in SQL to list the employees whose designation are same as the designation of MARKER or salary is more than the salary of ADELYN.
+85. Write a query in SQL to list the employees who are senior to BLAZE and working at PERTH or BRISBANE.
+86. Write a query in SQL to list the employees of grade 3 and 4 working in the department of FINANCE or AUDIT and whose salary is more than the salary of ADELYN and experience is more than FRANK. List the result in the ascending order of experience.
+87. Write a query in SQL to list the employees whose designation is same as the designation of SANDRINE or ADELYN.
+88. Write a query in SQL to list any job of department ID 1001 those that are not found in department ID 2001.
+89. Write a query in SQL to find the details of highest paid employee.
+90. Write a query in SQL to find the highest paid employees in the department MARKETING.
+91. Write a query in SQL to list the employees of grade 3 who have been hired in most recently and belongs to PERTH. 
+92. Write a query in SQL to list the employees who are senior to most recently hired employee working under KAYLING.
+93. Write a query in SQL to list the details of the employees within grade 3 to 5 and belongs to SYDNEY. The employees are not in PRESIDENT designated and salary is more than the highest paid employee of PERTH where no MANAGER and SALESMAN are working under KAYLING.
+94. Write a query in SQL to list the most senior employee working under KAYLING and grade is more than 3.
+95. Write a query in SQL to list the employees in department 1001 whose salary is more than the average salary of employees in department 2001. 
+96. Write a query in SQL to list the details of the departments where maximum number of employees are working.  
+97. Write a query in SQL to display the employees whose manager name is JONAS. 
+98. Write a query in SQL to list the employees who are not working in the department MARKETING.
+99.  Write a query in SQL to list the name, job name, department name, location for those who are working as a manager.
+100. Write a query in SQL to list the name of the employees who are getting the highest salary of each department. 
+101. Write a query in SQL to list the employees whose salary is equal or more to the average of maximum and minimum salary.
+102. Write a query in SQL to list the employees whose salary is less than the salary of his manager but more than the salary of any other manager. 
+103. Write a query in SQL to list the name and average salary of employees in department wise.
+104. Write a query in SQL to list the managers who are not working under the PRESIDENT. 
+105. Write a query in SQL to list the name, salary, commission and netpay for those employees whose netpay is more than any other employee. 
+106. Write a query in SQL to list the name of the departments where highest number of employees are working. 107. Write a query in SQL to list the employees who joined in the company on the same date.
+108. Write a query in SQL to list the name of the departments where more than average number of employees are working. 
+109. Write a query in SQL to list the name of the managers who is having maximum number of employees working under him.
+110. Write a query in SQL to list those managers who are getting salary to less than the salary of his employees. 
+111. Write a query in SQL to list the name of the employees for their manager JONAS and also the name of the manager of JONAS. 
+112. Write a query in SQL to list the name,salary, and department id for each employee who earns a salary greater than the average salary for their department and list the result in ascending order on department id. 
+113. Write a query in SQL to find the name and designation of the employees who earns a commission and salary is the maximum.
+114. Write a query in SQL to list the department ID and their average salaries for those department where the average salary is less than the averages for all departments.
+115. Write a query in SQL to display the unique department of the employees.
+116. Write a query in SQL to list the details of the employees working at PERTH. 
+117. Write a query in SQL to list the employees whose designation is same as either the designation of ADLYNE or the salary is more than salary of WADE.
+118. Write a query in SQL to list the employees of department 1001 whose salary is more than the salary of ADELYN.  
+119. Write a query in SQL to list the ID, name,location,salary, and department of the all the employees belonging to the department where KAYLING works.
+120. Write a query in SQL to list the employees whose salary grade are greater than the grade of MARKER.
